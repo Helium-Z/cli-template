@@ -1,0 +1,1 @@
+export { CommandNotFoundError } from './commandNotFoundError';
